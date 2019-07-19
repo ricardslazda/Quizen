@@ -16,9 +16,12 @@ Simple quiz where user enters his name, picks a topic, gives the answers and fin
 
 * Setup local Vagrant Homestead server
 
+* Import quizzes.sql database in to your project
+
 * Change the necessary parameters in public/config.php
 
 * Install required npm and composer dependencies
+
 
 ## Pictures
 
