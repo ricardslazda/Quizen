@@ -25,7 +25,7 @@ Simple quiz where user enters his name, picks a topic, gives the answers and fin
 
 ## Pictures
 
-![Imgur](https://imgur.com/0OgFRgO.png)
+![Imgur](https://imgur.com/GtfST4w.png)
 ![Imgur](https://imgur.com/WrW044U.png)
 ![Imgur](https://imgur.com/wDBYYpC.png)
 ![Imgur](https://imgur.com/VmxFIYh.png)
