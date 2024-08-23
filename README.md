@@ -1,5 +1,3 @@
 ![Docs](docs/1.png)
 ![Docs](docs/2.png)
 ![Docs](docs/3.png)
-![Docs](docs/4.png)
-![Docs](docs/5.png)
